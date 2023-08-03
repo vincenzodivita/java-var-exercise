@@ -9,7 +9,7 @@ public class Main {
 
         // Print info
         System.out.println("Hello, I am " + name + " " + lastname + ".\n");
-        System.out.println("I am a " + age + " y.o. " + profession + " from " + country + ",");
+        System.out.println("I am a " + age + " y.o. " + profession + " from " + country + ".");
         System.out.println();
 
     }
